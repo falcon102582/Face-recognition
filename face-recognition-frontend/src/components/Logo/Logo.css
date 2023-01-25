@@ -1,0 +1,6 @@
+.Tilt{
+    transform-style: preserve-3d;
+    transform: perspective(10px);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
